@@ -18,4 +18,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almeidadeoliveirabruno/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:brunoa52@hotmail.com)
 
+<div>
+  
 ![snake gif](https://github.com/almeidadeoliveirabruno/almeidadeoliveirabruno/blob/output/github-snake-dark.svg)
+
+</div>
+
+    
