@@ -1,7 +1,7 @@
 # Olá! Eu sou o Bruno 👋
 
 📗 Atualmente estudando para me tornar **Analista de Dados**  
-🎓 Cursando **Sistemas de Informação** – 6º período  
+🎓 Cursando **Sistemas de Informação** – 7º período  
 🎯 Interesses em **Python, Power BI, Excel e SQL**  
 🚀 Sempre buscando aprender e evoluir na área de dados!
 
